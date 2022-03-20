@@ -1,5 +1,6 @@
 # pop-on-the-wall
-This is just some pop on the wall, both healthy and unhealthy!
+This is just some pop on the wall, both healthy and unhealthy...
+
 99 bottles of pop on the wall, take one down and pass it around. 98 bottles of pop on the wall.
 98 bottles of pop on the wall, take one down and pass it around. 97 bottles of pop on the wall.
 97 bottles of pop on the wall, take one down and pass it around. 96 bottles of pop on the wall.
